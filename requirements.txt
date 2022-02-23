@@ -1,0 +1,179 @@
+alembic==1.7.6
+argon2-cffi==21.3.0
+argon2-cffi-bindings==21.2.0
+arimafd==1.4.1
+arviz @ file:///home/conda/feedstock_root/build_artifacts/arviz_1633274821480/work
+attrs==21.2.0
+backcall==0.2.0
+bleach==4.1.0
+blis==0.7.5
+Boruta==0.3
+catalogue==1.0.0
+certifi==2021.10.8
+cffi==1.15.0
+cftime @ file:///D:/bld/cftime_1642887797100/work
+charset-normalizer==2.0.12
+click==8.0.4
+cloudpickle==2.0.0
+cmdstanpy==0.9.68
+colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
+colorlover==0.3.0
+convertdate @ file:///home/conda/feedstock_root/build_artifacts/convertdate_1642883757836/work
+cufflinks==0.17.3
+cycler @ file:///home/conda/feedstock_root/build_artifacts/cycler_1635519461629/work
+cymem==2.0.6
+Cython==0.29.14
+databricks-cli==0.16.4
+debugpy==1.5.1
+decorator==5.1.0
+defusedxml==0.7.1
+docker==5.0.3
+entrypoints==0.3
+ephem==4.1.3
+fbprophet @ file:///D:/bld/fbprophet_1599365958928/work
+Flask==2.0.3
+fonttools @ file:///D:/bld/fonttools_1643722825909/work
+funcy==1.17
+future==0.18.2
+gensim==3.8.3
+gitdb==4.0.9
+GitPython==3.1.27
+greenlet==1.1.2
+hijri-converter @ file:///home/conda/feedstock_root/build_artifacts/hijri-converter_1644680066407/work
+holidays @ file:///home/conda/feedstock_root/build_artifacts/holidays_1644933126202/work
+htmlmin==0.1.12
+idna==3.3
+ImageHash==4.2.1
+imbalanced-learn==0.7.0
+importlib-metadata @ file:///D:/bld/importlib-metadata_1644934836338/work
+importlib-resources==5.4.0
+ipykernel==6.6.0
+ipython==7.30.1
+ipython-genutils==0.2.0
+ipywidgets==7.6.5
+itsdangerous==2.1.0
+jedi==0.18.1
+Jinja2==3.0.3
+joblib==1.0.1
+jsonschema==4.2.1
+jupyter==1.0.0
+jupyter-client==7.1.0
+jupyter-console==6.4.0
+jupyter-core==4.9.1
+jupyterlab-pygments==0.1.2
+jupyterlab-widgets==1.0.2
+kiwisolver @ file:///D:/bld/kiwisolver_1635836839743/work
+kmodes==0.11.1
+korean-lunar-calendar @ file:///home/conda/feedstock_root/build_artifacts/korean_lunar_calendar_1589354365811/work
+lightgbm==3.3.2
+llvmlite==0.38.0
+LunarCalendar==0.0.9
+Mako==1.1.6
+MarkupSafe==2.0.1
+matplotlib @ file:///D:/bld/matplotlib-suite_1639359275746/work
+matplotlib-inline==0.1.3
+missingno==0.5.0
+mistune==0.8.4
+mlflow==1.23.1
+mlxtend==0.19.0
+mpmath==1.2.1
+multimethod==1.7
+munkres==1.1.4
+murmurhash==1.0.6
+nbclient==0.5.9
+nbconvert==6.3.0
+nbformat==5.1.3
+nest-asyncio==1.5.4
+netCDF4 @ file:///D:/bld/netcdf4_1636303174001/work
+networkx==2.6.3
+nltk==3.7
+notebook==6.4.6
+numba==0.55.1
+numexpr==2.8.1
+numpy==1.19.5
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1637239678211/work
+pandas @ file:///D:/bld/pandas_1644670189358/work
+pandas-profiling==3.1.0
+pandocfilters==1.5.0
+parso==0.8.3
+patsy==0.5.2
+phik==0.12.0
+pickleshare==0.7.5
+Pillow @ file:///D:/bld/pillow_1645323409682/work
+plac==1.1.3
+plotly==5.6.0
+preshed==3.0.6
+prometheus-client==0.12.0
+prometheus-flask-exporter==0.18.7
+prompt-toolkit==3.0.24
+protobuf==3.19.4
+pycaret==2.3.6
+pycparser==2.21
+pydantic==1.9.0
+Pygments==2.10.0
+pyLDAvis==3.2.2
+PyMeeus==0.5.11
+pynndescent==0.5.6
+pyod==0.9.7
+pyparsing @ file:///home/conda/feedstock_root/build_artifacts/pyparsing_1642753572664/work
+pyrsistent==0.18.0
+pystan==2.19.1.1
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1633452062248/work
+PyWavelets==1.2.0
+pywin32==227
+pywinpty==1.1.6
+PyYAML==5.4.1
+pyzmq==22.3.0
+qtconsole==5.2.2
+QtPy==1.11.3
+querystring-parser==1.2.4
+regex==2022.1.18
+requests==2.27.1
+scikit-learn==0.23.2
+scikit-plot==0.3.7
+scipy==1.5.4
+seaborn==0.11.2
+Send2Trash==1.8.0
+setuptools-git==1.2
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+sklearn==0.0
+smart-open==5.2.1
+smmap==5.0.0
+spacy==2.3.7
+SQLAlchemy==1.4.31
+sqlparse==0.4.2
+srsly==1.0.5
+statsmodels==0.13.1
+sympy==1.9
+tabulate==0.8.9
+tangled-up-in-unicode==0.1.0
+tenacity==8.0.1
+terminado==0.12.1
+testpath==0.5.0
+textblob==0.17.1
+thinc==7.4.5
+threadpoolctl==3.1.0
+torch==1.10.2
+tornado==6.1
+tqdm @ file:///home/conda/feedstock_root/build_artifacts/tqdm_1632160078689/work
+traitlets==5.1.1
+tsad==0.18.7
+typing-extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1632313171031/work
+ujson==5.1.0
+umap-learn==0.5.2
+unicodedata2 @ file:///D:/bld/unicodedata2_1640031186081/work
+urllib3==1.26.8
+visions==0.7.4
+waitress==2.0.0
+wasabi==0.9.0
+wcwidth==0.2.5
+webencodings==0.5.1
+websocket-client==1.2.3
+Werkzeug==2.0.3
+widgetsnbextension==3.5.2
+wincertstore==0.2
+wordcloud==1.8.1
+xarray @ file:///home/conda/feedstock_root/build_artifacts/xarray_1643726632328/work
+yellowbrick==1.3.post1
+zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1643828507773/work
